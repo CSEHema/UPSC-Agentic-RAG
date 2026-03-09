@@ -38,7 +38,7 @@ Performance was validated using a **LLM-as-a-Judge** framework and a "Mini-Bench
 
 ```bash
 # Install dependencies
-pip install -U langchain-groq langgraph langchain-chroma langchain-huggingface
+pip install -r requirements.txt
 
 # Initialize the environment
 python -m venv venv
