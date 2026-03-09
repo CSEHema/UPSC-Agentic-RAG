@@ -1,0 +1,6 @@
+.env
+vector_dbs/
+__pycache__/
+.ipynb_checkpoints/
+*.pdf
+myvenv/
